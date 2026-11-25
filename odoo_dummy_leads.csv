@@ -1,32 +1,31 @@
-﻿Name,Contact Name,Company,Email,Phone,Type,Expected Revenue,Probability,Priority,City,Country,Source,Description,Created on
-Minh Phát Trading - ERP solution,Phương Trần,Minh Phát Trading,phương.trần.1@example.com,0945108603,Lead,10000000,40,0,Bien Hoa,Vietnam,Event,AI chatbot. Requested more information about available plans.,2026-10-15
-Minh Phát Trading - ERP solution,Lan Nguyễn,Minh Phát Trading,lan.nguyễn.2@example.com,0914668136,Lead,40000000,30,0,Hai Phong,Vietnam,Referral,Website development. Interested in integration with existing systems.,2026-08-29
-Nova Digital - Website development,Linh Bùi,Nova Digital,linh.bùi.3@example.com,0903678638,Lead,25000000,20,1,Hanoi,Vietnam,Referral,IT consulting. Needs a solution for a growing team.,2026-08-14
-An Bình Solutions - AI chatbot,Bình Phan,An Bình Solutions,bình.phan.4@example.com,0956770619,Lead,15000000,10,2,Can Tho,Vietnam,Facebook,CRM subscription. Interested in integration with existing systems.,2026-08-11
-Tân Á Manufacturing - AI chatbot,Minh Hoàng,Tân Á Manufacturing,minh.hoàng.5@example.com,0997067228,Lead,10000000,40,0,Ho Chi Minh City,Vietnam,Event,ERP solution. Evaluating vendors; send proposal.,2026-08-11
-Tân Á Manufacturing - Data analytics service,Tuấn Phạm,Tân Á Manufacturing,tuấn.phạm.6@example.com,0917377459,Lead,25000000,40,1,Hanoi,Vietnam,Email Campaign,Data analytics service. Asked for a follow-up call next week.,2026-10-25
-Đại Nam Technology - Website development,Hà Trần,Đại Nam Technology,hà.trần.7@example.com,0929961380,Lead,10000000,15,1,Can Tho,Vietnam,Email Campaign,Website development. Asked for a follow-up call next week.,2026-10-27
-Sao Mai Group - Cloud hosting,Huy Nguyễn,Sao Mai Group,huy.nguyễn.8@example.com,0906292423,Lead,15000000,10,0,Hai Phong,Vietnam,Event,Data analytics service. Asked for a follow-up call next week.,2026-10-23
-Cloud Nine Media - Data analytics service,Linh Phan,Cloud Nine Media,linh.phan.9@example.com,0973396987,Lead,10000000,15,2,Hai Phong,Vietnam,Facebook,Data analytics service. Interested in integration with existing systems.,2026-10-14
-Sao Mai Group - Cloud hosting,Lan Huỳnh,Sao Mai Group,lan.huỳnh.10@example.com,0929548432,Lead,5000000,10,0,Hanoi,Vietnam,Event,ERP solution. Interested in integration with existing systems.,2026-10-16
-Blue Ocean Co. - AI chatbot,Bình Phan,Blue Ocean Co.,bình.phan.11@example.com,0998852574,Lead,15000000,30,0,Bien Hoa,Vietnam,Event,CRM subscription. Evaluating vendors; send proposal.,2026-10-22
-Nova Digital - Cloud hosting,Huy Trần,Nova Digital,huy.trần.12@example.com,0963653446,Lead,5000000,40,2,Da Nang,Vietnam,Facebook,IT consulting. Would like to discuss implementation timeline.,2026-10-04
-Tân Á Manufacturing - AI chatbot,Vy Trần,Tân Á Manufacturing,vy.trần.13@example.com,0949517169,Lead,10000000,15,1,Nha Trang,Vietnam,Referral,AI chatbot. Interested in a product demo and pricing.,2026-10-16
-Minh Phát Trading - IT consulting,Huy Vũ,Minh Phát Trading,huy.vũ.14@example.com,0917089806,Lead,15000000,15,0,Hanoi,Vietnam,Facebook,CRM subscription. Requested more information about available plans.,2026-10-02
-NextGen Logistics - ERP solution,Tuấn Trần,NextGen Logistics,tuấn.trần.15@example.com,0983109911,Lead,75000000,25,2,Hanoi,Vietnam,Email Campaign,AI chatbot. Interested in integration with existing systems.,2026-08-28
-NextGen Logistics - Cloud hosting,Vy Đặng,NextGen Logistics,vy.dặng.16@example.com,0936229731,Lead,75000000,40,1,Can Tho,Vietnam,Facebook,Cloud hosting. Requested more information about available plans.,2026-09-01
-Hưng Thịnh Services - AI chatbot,Dũng Trần,Hưng Thịnh Services,dũng.trần.17@example.com,0904860684,Lead,10000000,10,0,Bien Hoa,Vietnam,Event,CRM subscription. Asked for a follow-up call next week.,2026-08-09
-Tân Á Manufacturing - AI chatbot,Vy Nguyễn,Tân Á Manufacturing,vy.nguyễn.18@example.com,0952188789,Lead,10000000,20,2,Can Tho,Vietnam,Referral,AI chatbot. Would like to discuss implementation timeline.,2026-10-13
-Sao Mai Group - ERP solution,Nam Vũ,Sao Mai Group,nam.vũ.19@example.com,0977829332,Lead,5000000,10,2,Can Tho,Vietnam,Email Campaign,Cloud hosting. Interested in integration with existing systems.,2026-09-29
-Mộc Lan Studio - Cloud hosting,Tuấn Nguyễn,Mộc Lan Studio,tuấn.nguyễn.20@example.com,0912016911,Lead,75000000,20,0,Hanoi,Vietnam,Referral,ERP solution. Requested a quotation for a pilot project.,2026-08-18
-Nova Digital - IT consulting,Lan Lê,Nova Digital,lan.lê.21@example.com,0975191056,Lead,5000000,25,2,Ho Chi Minh City,Vietnam,Website,Website development. Interested in a product demo and pricing.,2026-08-12
-GreenTech Việt Nam - Cloud hosting,Vy Phạm,GreenTech Việt Nam,vy.phạm.22@example.com,0969147706,Lead,10000000,25,0,Hanoi,Vietnam,LinkedIn,CRM subscription. Interested in integration with existing systems.,2026-09-03
-Nova Digital - ERP solution,Vy Vũ,Nova Digital,vy.vũ.23@example.com,0969164991,Lead,10000000,20,0,Ho Chi Minh City,Vietnam,Facebook,Website development. Interested in a product demo and pricing.,2026-09-10
-Đại Nam Technology - IT consulting,An Nguyễn,Đại Nam Technology,an.nguyễn.24@example.com,0979436429,Lead,40000000,15,0,Hai Phong,Vietnam,Website,IT consulting. Would like to discuss implementation timeline.,2026-08-09
-Mộc Lan Studio - CRM subscription,Nam Trần,Mộc Lan Studio,nam.trần.25@example.com,0937774229,Lead,40000000,15,2,Hai Phong,Vietnam,Website,AI chatbot. Requested more information about available plans.,2026-09-23
-Đại Nam Technology - Data analytics service,Phương Bùi,Đại Nam Technology,phương.bùi.26@example.com,0986307805,Lead,10000000,40,2,Da Nang,Vietnam,Referral,Data analytics service. Interested in integration with existing systems.,2026-08-17
-VietSmart Retail - CRM subscription,Phương Hoàng,VietSmart Retail,phương.hoàng.27@example.com,0952217071,Lead,25000000,30,2,Ho Chi Minh City,Vietnam,Website,AI chatbot. Asked for a follow-up call next week.,2026-10-04
-Cloud Nine Media - ERP solution,Hà Lê,Cloud Nine Media,hà.lê.28@example.com,0952154126,Lead,15000000,20,0,Can Tho,Vietnam,Facebook,Website development. Evaluating vendors; send proposal.,2026-10-18
-Minh Phát Trading - Website development,Trang Đặng,Minh Phát Trading,trang.dặng.29@example.com,0986022741,Lead,5000000,15,1,Ho Chi Minh City,Vietnam,Website,Website development. Would like to discuss implementation timeline.,2026-09-04
-Sao Mai Group - Website development,Hà Bùi,Sao Mai Group,hà.bùi.30@example.com,0954415796,Lead,75000000,20,2,Can Tho,Vietnam,Email Campaign,IT consulting. Interested in a product demo and pricing.,2026-08-12
-
+name,contact_name,partner_name,email_from,phone,stage_id,expected_revenue,probability,recurring_revenue,city,country_id,description,date_open
+Minh Phát Trading - ERP solution,Phương Trần,Minh Phát Trading,phương.trần.1@example.com,0945108603,1,10000000,40,0,Bien Hoa,241,AI chatbot. Requested more information about available plans.,2026-10-15
+Minh Phát Trading - ERP solution,Lan Nguyễn,Minh Phát Trading,lan.nguyễn.2@example.com,0914668136,1,40000000,30,0,Hai Phong,241,Website development. Interested in integration with existing systems.,2026-08-29
+Nova Digital - Website development,Linh Bùi,Nova Digital,linh.bùi.3@example.com,0903678638,1,25000000,20,0,Hanoi,241,IT consulting. Needs a solution for a growing team.,2026-08-14
+An Bình Solutions - AI chatbot,Bình Phan,An Bình Solutions,bình.phan.4@example.com,0956770619,1,15000000,10,0,Can Tho,241,CRM subscription. Interested in integration with existing systems.,2026-08-11
+Tân Á Manufacturing - AI chatbot,Minh Hoàng,Tân Á Manufacturing,minh.hoàng.5@example.com,0997067228,1,10000000,40,0,Ho Chi Minh City,241,ERP solution. Evaluating vendors; send proposal.,2026-08-11
+Tân Á Manufacturing - Data analytics service,Tuấn Phạm,Tân Á Manufacturing,tuấn.phạm.6@example.com,0917377459,1,25000000,40,0,Hanoi,241,Data analytics service. Asked for a follow-up call next week.,2026-10-25
+Đại Nam Technology - Website development,Hà Trần,Đại Nam Technology,hà.trần.7@example.com,0929961380,1,10000000,15,0,Can Tho,241,Website development. Asked for a follow-up call next week.,2026-10-27
+Sao Mai Group - Cloud hosting,Huy Nguyễn,Sao Mai Group,huy.nguyễn.8@example.com,0906292423,1,15000000,10,0,Hai Phong,241,Data analytics service. Asked for a follow-up call next week.,2026-10-23
+Cloud Nine Media - Data analytics service,Linh Phan,Cloud Nine Media,linh.phan.9@example.com,0973396987,1,10000000,15,0,Hai Phong,241,Data analytics service. Interested in integration with existing systems.,2026-10-14
+Sao Mai Group - Cloud hosting,Lan Huỳnh,Sao Mai Group,lan.huỳnh.10@example.com,0929548432,1,5000000,10,0,Hanoi,241,ERP solution. Interested in integration with existing systems.,2026-10-16
+Blue Ocean Co. - AI chatbot,Bình Phan,Blue Ocean Co.,bình.phan.11@example.com,0998852574,1,15000000,30,0,Bien Hoa,241,CRM subscription. Evaluating vendors; send proposal.,2026-10-22
+Nova Digital - Cloud hosting,Huy Trần,Nova Digital,huy.trần.12@example.com,0963653446,1,5000000,40,0,Da Nang,241,IT consulting. Would like to discuss implementation timeline.,2026-10-04
+Tân Á Manufacturing - AI chatbot,Vy Trần,Tân Á Manufacturing,vy.trần.13@example.com,0949517169,1,10000000,15,0,Nha Trang,241,AI chatbot. Interested in a product demo and pricing.,2026-10-16
+Minh Phát Trading - IT consulting,Huy Vũ,Minh Phát Trading,huy.vũ.14@example.com,0917089806,1,15000000,15,0,Hanoi,241,CRM subscription. Requested more information about available plans.,2026-10-02
+NextGen Logistics - ERP solution,Tuấn Trần,NextGen Logistics,tuấn.trần.15@example.com,0983109911,1,75000000,25,0,Hanoi,241,AI chatbot. Interested in integration with existing systems.,2026-08-28
+NextGen Logistics - Cloud hosting,Vy Đặng,NextGen Logistics,vy.dặng.16@example.com,0936229731,1,75000000,40,0,Can Tho,241,Cloud hosting. Requested more information about available plans.,2026-09-01
+Hưng Thịnh Services - AI chatbot,Dũng Trần,Hưng Thịnh Services,dũng.trần.17@example.com,0904860684,1,10000000,10,0,Bien Hoa,241,CRM subscription. Asked for a follow-up call next week.,2026-08-09
+Tân Á Manufacturing - AI chatbot,Vy Nguyễn,Tân Á Manufacturing,vy.nguyễn.18@example.com,0952188789,1,10000000,20,0,Can Tho,241,AI chatbot. Would like to discuss implementation timeline.,2026-10-13
+Sao Mai Group - ERP solution,Nam Vũ,Sao Mai Group,nam.vũ.19@example.com,0977829332,1,5000000,10,0,Can Tho,241,Cloud hosting. Interested in integration with existing systems.,2026-09-29
+Mộc Lan Studio - Cloud hosting,Tuấn Nguyễn,Mộc Lan Studio,tuấn.nguyễn.20@example.com,0912016911,1,75000000,20,0,Hanoi,241,ERP solution. Requested a quotation for a pilot project.,2026-08-18
+Nova Digital - IT consulting,Lan Lê,Nova Digital,lan.lê.21@example.com,0975191056,1,5000000,25,0,Ho Chi Minh City,241,Website development. Interested in a product demo and pricing.,2026-08-12
+GreenTech Việt Nam - Cloud hosting,Vy Phạm,GreenTech Việt Nam,vy.phạm.22@example.com,0969147706,1,10000000,25,0,Hanoi,241,CRM subscription. Interested in integration with existing systems.,2026-09-03
+Nova Digital - ERP solution,Vy Vũ,Nova Digital,vy.vũ.23@example.com,0969164991,1,10000000,20,0,Ho Chi Minh City,241,Website development. Interested in a product demo and pricing.,2026-09-10
+Đại Nam Technology - IT consulting,An Nguyễn,Đại Nam Technology,an.nguyễn.24@example.com,0979436429,1,40000000,15,0,Hai Phong,241,IT consulting. Would like to discuss implementation timeline.,2026-08-09
+Mộc Lan Studio - CRM subscription,Nam Trần,Mộc Lan Studio,nam.trần.25@example.com,0937774229,1,40000000,15,0,Hai Phong,241,AI chatbot. Requested more information about available plans.,2026-09-23
+Đại Nam Technology - Data analytics service,Phương Bùi,Đại Nam Technology,phương.bùi.26@example.com,0986307805,1,10000000,40,0,Da Nang,241,Data analytics service. Interested in integration with existing systems.,2026-08-17
+VietSmart Retail - CRM subscription,Phương Hoàng,VietSmart Retail,phương.hoàng.27@example.com,0952217071,1,25000000,30,0,Ho Chi Minh City,241,AI chatbot. Asked for a follow-up call next week.,2026-10-04
+Cloud Nine Media - ERP solution,Hà Lê,Cloud Nine Media,hà.lê.28@example.com,0952154126,1,15000000,20,0,Can Tho,241,Website development. Evaluating vendors; send proposal.,2026-10-18
+Minh Phát Trading - Website development,Trang Đặng,Minh Phát Trading,trang.dặng.29@example.com,0986022741,1,5000000,15,0,Ho Chi Minh City,241,Website development. Would like to discuss implementation timeline.,2026-09-04
+Sao Mai Group - Website development,Hà Bùi,Sao Mai Group,hà.bùi.30@example.com,0954415796,1,75000000,20,0,Can Tho,241,IT consulting. Interested in a product demo and pricing.,2026-08-12
